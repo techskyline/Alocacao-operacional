@@ -1,0 +1,4 @@
+ORIGEM DA CONVERSÃO
+
+Este projeto foi convertido a partir do protótipo React/TypeScript enviado pelo usuário.
+A interface visual e as regras operacionais principais foram preservadas, mas o estado foi movido do localStorage para o backend Java com persistência local.
